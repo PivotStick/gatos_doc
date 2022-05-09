@@ -1,0 +1,6 @@
+{
+	"app_name": "Gatos",
+	"codes": {
+		"overview": "const { App } = require(\"gatos\");\n\nApp.listen(4500); // A server opens on port 4500"
+	}
+}
